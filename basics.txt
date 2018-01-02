@@ -1,0 +1,18 @@
+border : Ypx colour
+[Where Y is a non negative number]
+
+height : Ypx
+
+background-color : your preffered colour for background
+
+color : your preffered colour for foreground
+
+font-size : Ypt
+
+font-family : web safe fonts[like GOERGIA, etc]
+
+text-align : Alignment of text [center or right or left or justify]
+
+width : Ypx
+
+
